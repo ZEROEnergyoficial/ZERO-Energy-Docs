@@ -1,0 +1,338 @@
+--- ACTA_001_Fundacional_ZERO_Energy_2026-02-11.pdf ---
+■ ACTA Nº 001
+Comité de Gobernanza ZERO Energy
+Fecha: 11 de febrero de 2026
+Hora: 09:00 AM
+Modalidad: Reunión virtual
+1. Constitución formal del Comité
+Se celebra la primera sesión formal del Comité de Gobernanza de ZERO Energy con el objetivo de
+establecer el marco organizativo inicial del proyecto en su fase pre-DAO. Se procede a la lectura y
+revisión de los Estatutos del Comité de Gobernanza, quedando aprobados como documento base
+regulador del funcionamiento interno del órgano.
+Se establece el carácter: Interno, Estratégico, Colegiado y Transitorio, con evolución prevista hacia
+un modelo de gobernanza descentralizado (DAO).
+2. Estructura organizativa aprobada
+Se ratifica la siguiente estructura organizativa:
+Comité de Gobernanza: Consejeros, Consejero Delegado, Secretario y Tesoreros.
+Equipo Operativo: Dirección de Sistemas, Comunidad y Expansión, Formación y Eventos,
+Automatización e IA, Desarrollo Tecnológico y otros roles que puedan definirse en función de las
+necesidades del proyecto.
+Se establece la posibilidad de acumulación transitoria de cargos en fase inicial.
+3. Régimen general de retribuciones
+Se aprueba un modelo de compensación basado en méritos tokenizados para cargos de
+gobernanza, modelo híbrido (USDC + méritos) o retribución en USDC para roles operativos según
+función, carácter no automático ni indefinido de las retribuciones y sujeción a revisión futura
+conforme a la evolución económica del proyecto. Las condiciones específicas quedan desarrolladas
+en anexos internos.
+4. Reconocimiento de méritos históricos
+Se acuerda el reconocimiento formal de aportaciones, trabajos y riesgos asumidos en fases
+anteriores del proyecto. Dichos méritos se documentarán en anexo específico y forman parte del
+marco fundacional.
+5. Tesorería y sistema multisig
+Se aprueba la implementación de un sistema de firma múltiple (multisig) para la gestión de fondos
+del proyecto, garantizando seguridad, trazabilidad y control colegiado. Se acuerda identificar
+formalmente a los tesoreros y establecer los procedimientos correspondientes.
+
+6. Modelo de transición futura a DAO
+Se deja constancia de que el Comité de Gobernanza tiene carácter transitorio y podrá evolucionar o
+integrarse en una estructura DAO conforme al desarrollo del proyecto. No se establecen derechos
+automáticos perpetuos derivados de la actual configuración.
+7. Organización operativa y dinámica de trabajo
+Se acuerda estructurar la actividad comunitaria y formativa mediante sesión semanal de impulso y
+seguimiento, sesión semanal de presentación y trabajo práctico, y sesiones específicas adicionales
+cuando sea necesario.
+8. Aprobación
+Se aprueban por mayoría los Estatutos y el marco organizativo inicial del Comité de Gobernanza
+ZERO Energy. Se levanta la sesión.
+
+
+======================
+--- ACTA_002_Comite_Gobernanza_ZERO_Energy_2026-02-18.pdf ---
+■ ACTA Nº 002
+Comité de Gobernanza ZERO Energy
+Fecha: 18 de febrero de 2026
+Hora: 09:00 AM
+Modalidad: Reunión virtual
+1. Puntualidad y régimen de acceso a sesiones
+Se refuerza la necesidad de garantizar la puntualidad y el respeto a los horarios establecidos en
+reuniones internas, formaciones y presentaciones del proyecto.
+Se acuerda el inicio puntual de todas las sesiones, la denegación de acceso a quienes se incorporen
+con más de cinco minutos de retraso sin aviso previo, la posibilidad de acceso únicamente en caso
+de aviso previo justificado y la obligación del equipo organizador de conectarse con al menos quince
+minutos de antelación.
+2. Régimen de comunicación interna y tiempos de respuesta
+Se establece un marco claro de comunicación para evitar bloqueos operativos.
+El equipo operativo mantiene un tiempo máximo de respuesta orientativo de hasta tres horas, con
+obligación de aviso previo en caso de indisponibilidad temporal. El Comité de Gobernanza y
+Consejeros disponen de un tiempo máximo de respuesta de hasta veinticuatro horas. La falta
+reiterada de respuesta podrá considerarse falta de operatividad.
+3. Revisión de horarios y asistencia a sesiones
+Se constata una disminución progresiva en la asistencia a determinadas sesiones comunitarias. Se
+acuerda revisar y ajustar los horarios actuales, trabajando con franjas de mañana, tarde y noche,
+facilitando la participación desde distintas zonas horarias.
+4. Convocatorias, calendario y uso de canales
+Se revisa el sistema de convocatorias con el objetivo de reducir la saturación de mensajes. Las
+convocatorias deberán comunicarse con mayor antelación, evitando duplicaciones innecesarias y
+ordenando los recordatorios el mismo día de la sesión.
+5. Funcionamiento general de tokens y saldo
+Se aclaran los aspectos operativos relacionados con el uso de tokens y saldo dentro de la
+plataforma, orientados a garantizar la sostenibilidad del proyecto, facilitar la incorporación de nuevos
+usuarios e incentivar la reinversión y el crecimiento. Se elaborará documentación explicativa.
+6. Actas, estatutos y transparencia documental
+Se ratifica el compromiso de transparencia del proyecto. Las actas oficiales se publicarán de forma
+progresiva en un repositorio público en GitHub. Los estatutos se harán públicos una vez
+formalizados y firmados, permitiendo el acceso en modo consulta.
+
+7. Aprobación y cierre
+Quedan aprobados los acuerdos recogidos en la presente acta por consenso del Comité de
+Gobernanza. Se levanta la sesión.
+
+
+======================
+--- ACTA_003_Comite_Gobernanza_ZERO_Energy_2026-02-25.pdf ---
+ACTA Nº 003 
+Comité de Gobernanza ZERO Energy 
+Fecha: 25 de febrero de 2026 
+Hora: 9:00 H 
+Duración: 1:30 min 
+Modalidad: Virtual 
+ 
+1. Apertura de la sesión 
+Se inicia la sesión del Comité de Gobernanza con el objetivo de revisar la evolución del proyecto y 
+analizar distintas propuestas relacionadas con el desarrollo de la comunidad y la organización de 
+actividades del ecosistema. 
+ 
+2. Participación en eventos del sector 
+El comité analiza la conveniencia de participar en eventos relacionados con el ámbito de la 
+tecnología blockchain y los activos digitales. 
+Acuerdo 
+Se considera positivo que el proyecto tenga presencia en este tipo de encuentros por los siguientes 
+motivos: 
+ fortalecimiento de la visibilidad del proyecto 
+ establecimiento de contactos con profesionales del sector 
+ acceso a espacios de networking con otros proyectos tecnológicos 
+El comité aprueba explorar oportunidades de participación en eventos relevantes del sector. 
+ 
+3. Estrategia de crecimiento de la comunidad 
+Se revisan distintas propuestas orientadas al crecimiento del ecosistema del proyecto. 
+Conclusión 
+El comité reafirma que el desarrollo del proyecto debe centrarse en: 
+ ampliación progresiva de la comunidad 
+ fortalecimiento de la red de participantes 
+ consolidación del modelo de crecimiento. 
+Se insiste en la importancia de mantener procesos sencillos y replicables que faciliten la 
+participación de nuevos miembros. 
+ 
+4. Organización de encuentros y 
+presentaciones 
+Se analiza la posibilidad de organizar encuentros presenciales para dar a conocer el proyecto. 
+Acuerdo 
+El comité considera adecuado comenzar con eventos de formato reducido, orientados a la 
+presentación del proyecto y al intercambio entre participantes. 
+Este tipo de encuentros permitirán: 
+ fortalecer la comunidad 
+ generar espacios de diálogo 
+ presentar el proyecto a nuevos interesados. 
+ 
+5. Desarrollo de contenidos informativos 
+Se comenta la importancia de contar con materiales informativos claros y accesibles para facilitar la 
+comprensión del proyecto. 
+Acuerdo 
+Se continuará trabajando en la preparación de materiales de presentación y recursos informativos 
+que permitan explicar el funcionamiento del proyecto de forma sencilla. 
+ 
+6. Seguimiento del desarrollo del proyecto 
+El comité revisa la evolución general del proyecto y su estado actual. 
+Se constata que el proyecto continúa avanzando en su fase de desarrollo y consolidación, con el 
+objetivo de ampliar progresivamente su comunidad y mejorar sus herramientas de comunicación. 
+ 
+7. Cierre de la sesión 
+No habiendo más asuntos que tratar, se da por finalizada la sesión del Comité de Gobernanza. 
+ 
+
+======================
+--- ACTA_004_Comite_Gobernanza_ZERO_Energy_2026-03-04.pdf ---
+ACTA Nº 004 
+Comité de Gobernanza ZERO Energy 
+Fecha: 04 de marzo de 2026 
+Hora: 9:00 H 
+Duración: 1:30 min 
+Modalidad: Virtual 
+ 
+1. Apertura de la sesión 
+Se inicia la reunión del Comité de Gobernanza con el objetivo de revisar distintos aspectos 
+relacionados con la expansión del proyecto, la participación en eventos del sector y la organización 
+de actividades dirigidas a la comunidad. 
+ 
+2. Participación en evento del sector 
+tecnológico 
+El comité informa sobre la celebración de un evento del ámbito blockchain previsto para el mes de 
+abril. 
+Acuerdo 
+Se aprueba la participación del proyecto en dicho evento con el objetivo de: 
+• fortalecer la presencia del proyecto en el ecosistema tecnológico 
+• generar oportunidades de colaboración con otros actores del sector 
+• aumentar la visibilidad del proyecto. 
+La participación incluirá presencia institucional y actividades de representación del proyecto. 
+ 
+3. Participación del equipo 
+Se prevé la asistencia de varios miembros del equipo del proyecto al evento con el fin de: 
+• representar al proyecto 
+• participar en actividades de networking 
+• establecer contacto con profesionales del sector. 
+La organización logística será coordinada internamente. 
+ 
+4. Material informativo y promocional 
+Se plantea la preparación de material informativo para apoyar la presencia del proyecto en el 
+evento. 
+Acuerdo 
+Se trabajará en la elaboración de distintos recursos de comunicación y materiales informativos que 
+permitan presentar el proyecto a los asistentes de forma clara. 
+ 
+5. Estrategia de encuentros del proyecto 
+El comité analiza la organización de encuentros propios del proyecto. 
+Conclusión 
+Se acuerda priorizar inicialmente eventos de formato reducido, orientados a la presentación del 
+proyecto y al contacto directo con la comunidad. 
+Estos encuentros permitirán: 
+• fortalecer la relación con los participantes 
+• facilitar la presentación del proyecto 
+• generar espacios de interacción entre miembros de la comunidad. 
+ 
+6. Organización de reuniones de trabajo 
+Se revisa la estructura de reuniones internas del proyecto. 
+Acuerdo 
+Se reorganiza el calendario de reuniones con el objetivo de: 
+• mejorar la coordinación del equipo 
+• optimizar el uso del tiempo 
+• facilitar la participación de los miembros del proyecto. 
+El nuevo esquema permitirá una mayor claridad en las sesiones de seguimiento y trabajo. 
+ 
+7. Estado del proyecto 
+El comité revisa la evolución del proyecto y su situación actual. 
+Se constata que el proyecto continúa avanzando en su desarrollo y se mantienen las líneas de trabajo 
+orientadas al crecimiento de la comunidad y a la consolidación de su ecosistema. 
+ 
+8. Cierre de la sesión 
+No habiendo más asuntos que tratar, se da por finalizada la sesión del Comité de Gobernanza. 
+ 
+
+======================
+--- ACTA_005_Comite_Gobernanza_ZERO_Energy_2026-03-11.pdf ---
+ACTA Nº 005
+ Comité de Gobernanza ZERO Energy
+Fecha: 11 de marzo de 2026
+Hora: 09:00 H
+Duración: 1 h 30 min
+Modalidad: Virtual
+1. Apertura de la sesión
+Se inicia la sesión del Comité de Gobernanza con el objetivo de revisar la evolución del proyecto ZERO
+Energy, analizar propuestas relacionadas con el desarrollo de la comunidad y coordinar acciones
+estratégicas para las siguientes fases del ecosistema.
+Durante la sesión se revisaron aspectos operativos del proyecto, la organización de eventos, la evolución
+de la comunidad y posibles estrategias de crecimiento.
+2. Organización y participación en eventos del sector
+Se revisó la participación del equipo en un evento del sector previsto próximamente.
+
+Coordinación de asistencia de miembros del equipo.
+
+Gestión de entradas para los participantes.
+
+Posibilidad de centralizar la compra de entradas para facilitar la logística.
+
+Búsqueda de alojamiento conjunto para optimizar la organización del grupo.
+3. Documentación organizativa y firma de estatutos
+Se planteó la posibilidad de aprovechar el encuentro presencial previsto en el evento para avanzar en la
+firma de documentación organizativa.
+Se valoró positivamente revisar y formalizar determinados documentos organizativos y digitalizarlos
+posteriormente para su archivo.
+4. Registro y documentación de las reuniones
+Se confirma que las reuniones del Comité de Gobernanza se registran con el objetivo de facilitar la
+elaboración posterior de actas.
+Las actas publicadas en el repositorio del proyecto no incluyen información sensible ni datos personales o
+financieros.
+5. Estrategia de crecimiento de la comunidad
+
+Durante la sesión se analizó la evolución reciente de la comunidad y el ritmo de incorporación de nuevos
+miembros.
+Se destacó la importancia de reforzar los procesos de duplicación y formación para facilitar que los
+nuevos participantes comprendan mejor el funcionamiento de las herramientas disponibles.
+6. Desarrollo de materiales de formación
+Se propuso la creación de una guía de inicio para nuevos miembros con el objetivo de explicar de forma
+clara los primeros pasos dentro del proyecto, el uso de las herramientas disponibles y las buenas
+prácticas para el crecimiento de la comunidad.
+7. Estrategia de visibilidad en redes
+Se comentaron distintas formas de mejorar la visibilidad del proyecto en redes sociales, fomentando la
+participación de la comunidad en la difusión de contenidos informativos y en la generación de actividad en
+redes personales.
+8. Próximas fases estratégicas del proyecto
+Se revisaron posibles líneas de trabajo para las siguientes fases del proyecto, incluyendo el desarrollo
+progresivo de herramientas del ecosistema, la ampliación de la comunidad internacional y la participación
+en eventos del sector.
+9. Reconocimiento a la participación de la comunidad
+Se comentó la posibilidad de implementar mecanismos de reconocimiento para miembros activos de la
+comunidad mediante materiales visuales y publicaciones que permitan celebrar logros dentro del
+ecosistema.
+10. Seguimiento de actividad en la comunidad
+Se compartieron ejemplos de iniciativas impulsadas por miembros de la comunidad para apoyar a nuevos
+participantes y fortalecer el aprendizaje colaborativo dentro del proyecto.
+11. Cierre de la sesión
+Se finaliza la reunión agradeciendo la participación de los miembros del comité y destacando la
+importancia de continuar trabajando de forma coordinada para el desarrollo del proyecto.
+
+
+======================
+--- ACTA_006_Comite_Gobernanza_ZERO_Energy_2026-03-18.pdf ---
+ACTA Nº 006
+ Comité de Gobernanza ZERO Energy
+Fecha: Marzo de 2026
+Hora: 09:00 H
+Duración: Sesión breve
+Modalidad: Virtual
+1. Apertura de la sesión
+Se inicia la sesión del Comité de Gobernanza con carácter operativo y breve, debido a la disponibilidad
+limitada de varios miembros del equipo.
+El objetivo principal de la reunión fue coordinar aspectos logísticos inmediatos y compartir oportunidades
+relevantes detectadas para el crecimiento del proyecto.
+2. Coordinación logística de evento
+Se revisan aspectos prácticos relacionados con la asistencia a un evento próximo.
+
+El pago de la entrada se realizará de forma presencial.
+
+Se solicita a los asistentes enviar nombre y apellidos, teléfono y email para la gestión organizativa del
+evento.
+3. Coordinación interna del equipo
+Se acuerda que, tras la sesión general, un grupo reducido del equipo continuará trabajando en tareas
+internas de desarrollo y organización.
+Estas tareas se tratarán de forma operativa en reuniones específicas.
+4. Colaboraciones y oportunidades en eventos
+Se comparte la posibilidad de colaboración mediante la generación de contenido audiovisual durante el
+evento.
+El objetivo es aumentar la visibilidad del proyecto y generar contenido reutilizable para comunicación y
+marketing.
+5. Oportunidades en eventos internacionales
+Se presentan nuevas oportunidades relacionadas con eventos del sector cripto a nivel internacional.
+
+Se identifican eventos con alta concentración de público objetivo.
+6. Propuesta de participación estratégica
+Se analiza la posibilidad de participar en eventos internacionales como sponsor o con presencia activa
+mediante stand.
+Se destaca el potencial para establecer relaciones estratégicas y acelerar la expansión del proyecto.
+7. Estrategia de expansión internacional
+Se plantea el uso de eventos como punto de entrada a nuevos mercados.
+El enfoque incluye establecer contactos locales y fomentar el crecimiento en nuevos territorios.
+8. Consideraciones operativas
+Se destaca la necesidad de preparar materiales promocionales, coordinar logística y definir objetivos
+claros de captación y networking.
+Se propone evaluar estas oportunidades en futuras sesiones.
+9. Próximos pasos
+Evaluar la viabilidad de participación en eventos internacionales.
+Analizar recursos necesarios.
+Continuar coordinación del evento actual.
+Desarrollar materiales del proyecto.
+10. Cierre de la sesión
+Se da por finalizada la sesión, destacando la importancia de las oportunidades identificadas.
+Se acuerda retomar los temas estratégicos en la siguiente reunión del comité.
+
+
+======================
